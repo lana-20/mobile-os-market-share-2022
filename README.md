@@ -36,3 +36,5 @@ Regionally, __Android__ dominates __Africa, Asia, Europe, and South America__, w
 [KaiOS Apps](https://www.kaiostech.com/help-center/kaistore-apps-list-2/)
 
 [KaiOS App Example](https://twitter.com/ChristianWaadt/status/1111668247538139138?s=09)
+
+[Mobile OS Market Share - A Decade Ago](https://github.com/lana-20/mobile-os-market-share-2012#readme)
