@@ -17,31 +17,18 @@ The allocation changes by country and region.
 
 <img width="1971" alt="Screenshot 2023-01-11 at 6 24 48 PM" src="https://user-images.githubusercontent.com/70295997/211961179-d3cf7aac-4c62-4509-b11e-620ab7180ca4.png">
 
-Regionally, __Android__ dominates __Africa, Asia, Europe, and South America__:
+Regionally, __Android__ dominates __Africa, Asia, Europe, and South America__, while __iOS__ dominates __North America and Oceania__.
 
-<img width="1551" alt="Screenshot 2023-01-11 at 6 00 26 PM" src="https://user-images.githubusercontent.com/70295997/211957962-e776bd5b-735d-49e9-b1bb-7afbd168833a.png">
-
-
-<img width="700" alt="Screenshot 2023-01-11 at 2 55 31 PM" src="https://user-images.githubusercontent.com/70295997/211935721-fb8030b2-d8c7-41af-8a79-9b15c156e3bf.png">
-<img width="700" alt="Screenshot 2023-01-11 at 2 56 16 PM" src="https://user-images.githubusercontent.com/70295997/211935852-3a6d54b5-3cc3-40ed-b46c-07ff156f9b2e.png">
-<img width="700" alt="Screenshot 2023-01-11 at 2 57 32 PM" src="https://user-images.githubusercontent.com/70295997/211936054-588448ea-5522-44d8-aa59-d65fbfb01d96.png">
-<img width="700" alt="Screenshot 2023-01-11 at 3 01 21 PM" src="https://user-images.githubusercontent.com/70295997/211936585-e2dd3687-3653-47e8-a11e-51a797e98568.png">
-
-__iOS__ dominates the regions of __North America and Oceania__:
-
-<img width="1836" alt="Screenshot 2023-01-11 at 5 51 48 PM" src="https://user-images.githubusercontent.com/70295997/211957017-410cd9e1-de77-4e29-af6e-d28322997e8e.png">
-
-<img width="700" alt="Screenshot 2023-01-11 at 2 58 31 PM" src="https://user-images.githubusercontent.com/70295997/211936187-d2b6930c-0178-4861-aac2-a1c4e3fd9bf5.png">
-<img width="700" alt="Screenshot 2023-01-11 at 2 59 34 PM" src="https://user-images.githubusercontent.com/70295997/211936348-619fad92-48e4-4e29-a864-bec38b6965bf.png">
+<img width="2332" alt="Screenshot 2023-01-11 at 6 37 48 PM" src="https://user-images.githubusercontent.com/70295997/211962780-8d5178f3-92ff-44ca-9381-55d6d95c1274.png">
+<img width="1435" alt="Screenshot 2023-01-11 at 6 41 49 PM" src="https://user-images.githubusercontent.com/70295997/211963273-6664f3dd-4cf8-4311-8d48-d83f6edbf81c.png">
 
 
 ## Android
-
-
+#TODO 
 
 ## iOS
 
-Apple provides 
+#TODO Apple provides ...
 
 ## KaiOS
 [KaiOS](https://www.kaiostech.com/help-center/) has a small market share (0.08%), however, companies like Meta develop for this platform. It's an OS for button phones. Despite the small share, this OS is essential enough for phones which are not yet full-blown smartphones, but are cheaper simpler button phones. KaiOS has its own app store ([KaiStore](https://www.kaiostech.com/apps-feature-phones-everything-need-know-kaistore/)), from where users can download the most popular apps for this OS. 
