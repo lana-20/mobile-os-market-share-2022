@@ -11,17 +11,11 @@ Of course, there is always a tradeoff along with the benefit. Both Android and i
 
 The allocation changes by country and region.
 
-The U.S. market is dominated by iOS. Although, for approximation purposes, I can say that Google and Apple shares have been dancing around the 50/50 split. The ticker has been consistently moving back and forth in either direction by a few percentages.
+- The __U.S.__ market is dominated by __iOS__. Although, for approximation purposes, I can say that Google and Apple shares have been dancing around the 50/50 split. The ticker has been consistently moving back and forth in either direction by a few percentages.
+- __India__ is almost entirely serviced by __Android__.
+- __Japan__ is dominated by __iOS__.
 
-<img width="700" alt="Screenshot 2023-01-11 at 2 45 32 PM" src="https://user-images.githubusercontent.com/70295997/211934192-4e458980-7151-49f3-8124-b4228f21273b.png">
-
-India is almost entirely serviced by Android:
-
-<img width="700" alt="Screenshot 2023-01-11 at 2 47 06 PM" src="https://user-images.githubusercontent.com/70295997/211934429-e225cb44-6bc1-4687-99a9-4bd1748dcb6d.png">
-
-Japan is dominated by iOS:
-
-<img width="700" alt="Screenshot 2023-01-11 at 2 49 11 PM" src="https://user-images.githubusercontent.com/70295997/211934762-230f9cfd-7a72-46c7-ba55-22b10861dd71.png">
+<img width="1971" alt="Screenshot 2023-01-11 at 6 24 48 PM" src="https://user-images.githubusercontent.com/70295997/211961179-d3cf7aac-4c62-4509-b11e-620ab7180ca4.png">
 
 Regionally, __Android__ dominates __Africa, Asia, Europe, and South America__:
 
