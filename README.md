@@ -1,6 +1,6 @@
 # Mobile OS Market Share - Today
 
-Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) looks much different from [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/). The market is dominated by two major vendors - Google ([__Android OS__](https://github.com/lana-20/android-distro)) and Apple (__iOS__).
+Mobile market [today](https://lana-20.github.io/mobile-os-market-share-2022/) looks much different from [10 years ago](https://lana-20.github.io/mobile-os-market-share-2012/). The market is dominated by two major vendors - the _Big Two_ - Google ([__Android OS__](https://github.com/lana-20/android-distro)) and Apple (__iOS__).
 
 <img width="700" alt="Screenshot 2023-01-11 at 2 35 52 PM" src="https://user-images.githubusercontent.com/70295997/211932600-5143fc97-c365-484d-bb98-2cec5cfac32f.png">
 
